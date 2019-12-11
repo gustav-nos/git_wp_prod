@@ -15,5 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/testroute', function(){
-	echo 'Hello from test';
+	echo 'Kebbab med bröd';
 });
