@@ -22,4 +22,5 @@ Route::get('/testroute', function(){
 	echo 'Fåglarna på taket, tänd alla ljus för jag kan inte se, jag kan inte flyga!';
     echo 'Trallalala';
     echo 'lolo';
+    echo 'fisk';
 });
