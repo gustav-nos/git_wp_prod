@@ -17,4 +17,5 @@ Route::get('/', function () {
 Route::get('/testroute', function(){
     echo 'Hello from test';
     echo 'Added this change to the file.';
+    echo 'Zebra i havet';
 });
