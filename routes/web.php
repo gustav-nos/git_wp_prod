@@ -23,4 +23,5 @@ Route::get('/testroute', function(){
     echo 'Trallalala';
     echo 'lolo';
     echo 'fisk';
+    echo 'The waiting is the hardest part';
 });
