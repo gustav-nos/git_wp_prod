@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/testroute', function(){
-	echo 'Kebbab med bröd';
+	echo 'Stekare med bröd';
     echo 'Hello from test';
     echo 'Added this change to the file.';
     echo 'Zebra i havet';
