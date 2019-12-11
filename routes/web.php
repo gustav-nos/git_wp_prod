@@ -21,4 +21,5 @@ Route::get('/testroute', function(){
     echo 'Zebra i havet';
 	echo 'Fåglarna på taket, tänd alla ljus för jag kan inte se, jag kan inte flyga!';
 	echo 'Trallalala';
+    echo 'Framtidsfabriken';
 });
