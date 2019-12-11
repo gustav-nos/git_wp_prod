@@ -19,4 +19,5 @@ Route::get('/testroute', function(){
     echo 'Hello from test';
     echo 'Added this change to the file.';
     echo 'Zebra i havet';
+	echo 'Fåglarna på taket, tänd alla ljus för jag kan inte se, jag kan inte flyga!';
 });
