@@ -16,8 +16,3 @@ use Illuminate\Http\Request;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
-<<<<<<< HEAD
-echo 'blue moooon';
-echo 'some days are diamond';
-=======
->>>>>>> parent of 4d59597... Merge branch 'dev'
